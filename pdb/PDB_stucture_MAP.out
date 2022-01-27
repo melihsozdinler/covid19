@@ -1,0 +1,6 @@
+#complex_pdb	chainsA	StructureA	chainsB	StructureB	Type	UnboundPDB	chainsUA	StructureA	UnboundPDB	chainsUB	StructureB
+7ntv	A	7ntv_l.pdb	B	7ntv_r.pdb	OG	7ntv	A	7ntv.pdb	7ntv	B	7ntv.pdb
+7nuk	A	7nuk_l.pdb	B	7nuk_r.pdb	OG	7nuk	A	7nuk.pdb	7nuk	B	7nuk.pdb
+7nt1	A	7nt1_l.pdb	B	7nt1_r.pdb	OG	7nt1	A	7nt1.pdb	7nt1	B	7nt1.pdb
+7nt2	A	7nt2_l.pdb	B	7nt2_r.pdb	OG	7nt2	A	7nt2.pdb	7nt2	B	7nt2.pdb
+7nt3	A	7nt3_l.pdb	B	7nt3_r.pdb	OG	7nt3	A	7nt3.pdb	7nt3	B	7nt3.pdb
